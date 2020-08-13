@@ -69,7 +69,7 @@ Some companies open a position as a remote job, but they indicate laterhand it i
 
 #### 	Front-end
 
-[![github]](https://github.com/MiryangJung)**[Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)**
+    [![github]](https://github.com/MiryangJung) **Front-end Developer Interview Questions**
 
 #### Back-end
 
