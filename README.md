@@ -4,6 +4,12 @@ Some companies open a position as a remote job, but they indicate laterhand it i
 
 <br /><br />
 
+## | Contents 🤓
+
+- **[English](https://github.com/goleedev/remote-jobs-from-anywhere/)**
+
+<br /><br />
+
 ## | Jor Search 🔍
 
 ### 📍 General Checkpoints
@@ -29,7 +35,6 @@ Some companies open a position as a remote job, but they indicate laterhand it i
 | **[Remotive](https://remotive.io/)**              | - Can search by **typing keywords**                          | - Look for **'Global'** label under remote jobs              |
 | **[WeWorkRemotely](https://weworkremotely.com/)** | - Mostly about **startup Jobs**                              | - **Can't search** by seniority levels and languages <br />- Can search '**remtoe from anywhere**' jobs when **clicking the label** inside the post<br />- Stores **outdated posts** |
 
-
 <br /><br />
 
  ## | Companies 🏢
@@ -37,6 +42,8 @@ Some companies open a position as a remote job, but they indicate laterhand it i
 ### 📍 General Remote Companies List
 
 🔗 **[Remote in Tech](https://github.com/remoteintech/remote-jobs)** - Note that some companies stated that hire from anywhere do not keep hiring in that way anymore.
+
+<br />
 
 ### 📍 Test-first Companies
 
@@ -110,11 +117,9 @@ Some companies open a position as a remote job, but they indicate laterhand it i
 
 <br /><br />
 
-## | How to Contribute 🙋
+##| How to Contribute 🙋
 
 - Send PR **[How?]()**
-
-
 
 <!-- Please don't remove this: Icons From https://github.com/neilorangepeel/Free-Social-Icons -->
 <!-- display the social media buttons in your README -->
