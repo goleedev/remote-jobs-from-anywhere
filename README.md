@@ -117,7 +117,7 @@ Some companies open a position as a remote job, but they indicate laterhand it i
 
 <br /><br />
 
-##| How to Contribute 🙋
+## | How to Contribute 🙋
 
 - Send PR **[How?]()**
 
