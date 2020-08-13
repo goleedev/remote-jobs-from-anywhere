@@ -2,7 +2,7 @@
 
 Some companies open a position as a remote job, but they indicate laterhand it is not the job from **_'anywhere'_** but for based in US or UK only. Since a growing number of developers around the world are trying to get remote jobs, I think we need to share our search results/experience for remote job hunters.
 
-
+<br /><br />
 
 ## | Jor Search 🔍
 
@@ -20,7 +20,7 @@ Some companies open a position as a remote job, but they indicate laterhand it i
 * Check if a position offers/requires a visa sponsorship
   i.e. Fully Remote (Requires to be ***authorized*** to *work* in the location )
 
-
+<br />
 
 ### 📍 Job Search Sites
 
@@ -36,13 +36,15 @@ Some companies open a position as a remote job, but they indicate laterhand it i
 
 
 
-## | Companies
+<br /><br />
+
+ ## | Companies 🏢
 
 ### 📍 General Remote Companies List
 
 🔗 **[Check this repo](https://github.com/remoteintech/remote-jobs)** - Note that some companies stated that hire from anywhere do not keep hiring in that way anymore.
 
-
+<br />
 
 ### 📍 Test-first Companies
 
@@ -50,7 +52,7 @@ Some companies open a position as a remote job, but they indicate laterhand it i
 | ------------------------------------ | ----------- | --------------------------------------------------------- |
 | **[Toggl](https://toggl.com/jobs/)** |             | - For developers, **8-question test  that takes 15 min**. |
 
-
+<br />
 
 ### 📍 Text-based Interview Companies
 
@@ -59,9 +61,9 @@ Some companies open a position as a remote job, but they indicate laterhand it i
 | **[Automattic](https://automattic.com/)** | - **Interview Process**<br />  1) Text-based interview with HR using Slack<br />  2) Take Home Assignment<br />  3) Text-based interview with CEO using Slack<br />  4) Training |      |
 |                                           |                                                              |      |
 
+<br /><br />
 
-
-## | Interview
+## | Interview 💼
 
 ### 📍 Interview Blog Posts
 
@@ -71,19 +73,17 @@ Some companies open a position as a remote job, but they indicate laterhand it i
 
 #### Full-stack
 
+<br />
 
+### 📍 Interview FAQ
 
-### Interview FAQ
-
-
+<br />
 
 ### 📍 Interview Process For Remote Jobs
 
+<br /><br />
 
-
-
-
-## | How to Contribute
+## | How to Contribute 🙋
 
 - Send PR **[How?]()**
 
