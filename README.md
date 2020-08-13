@@ -119,7 +119,7 @@ Some companies open a position as a remote job, but they indicate laterhand it i
 
 ## | How to Contribute 🙋
 
-- Send PR **[How?]()**
+- Send PR **[How?](https://github.com/goleedev/remote-jobs-from-anywhere/wiki)**
 
 <!-- Please don't remove this: Icons From https://github.com/neilorangepeel/Free-Social-Icons -->
 <!-- display the social media buttons in your README -->
