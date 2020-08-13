@@ -38,21 +38,20 @@ Some companies open a position as a remote job, but they indicate laterhand it i
 
 🔗 **[Remote in Tech](https://github.com/remoteintech/remote-jobs)** - Note that some companies stated that hire from anywhere do not keep hiring in that way anymore.
 
-<br />
-
 ### 📍 Test-first Companies
 
-| Name                                 | Description | Note                                                      |
-| ------------------------------------ | ----------- | --------------------------------------------------------- |
-| **[Toggl](https://toggl.com/jobs/)** |             | - For developers, **8-question test  that takes 15 min**. |
+| Name                                 | Hiring/Interview Process                                     | Note                                                         |
+| ------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **[Toggl](https://toggl.com/jobs/)** | - **Hiring Process**<br />  1) Pre-screening Test <br />  2) Skill Test (**8-question test  that takes 15 min for developers**)<br />  3) Interview | 🔗 **[More Info](https://toggl.com/blog/hiring-remotely-togglhire)** |
 
 <br />
 
 ### 📍 Text-based Interview Companies
 
-| Name                                      | Description                                                  | Note |
-| ----------------------------------------- | ------------------------------------------------------------ | ---- |
-| **[Automattic](https://automattic.com/)** | - **Interview Process**<br />  1) Text-based interview with HR using Slack<br />  2) Take Home Assignment<br />  3) Text-based interview with CEO using Slack<br />  4) Training |      |
+| Name                                      | Hiring/Interview Process                                     | Note                                                         |
+| ----------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **[Automattic](https://automattic.com/)** | - **Hiring Process** (6 weeks) <br />  1) Text-based interview with HR using Slack<br />  2) Take Home Assignment<br />  3) Text-based interview with CEO using Slack<br />  4) Training | 🔗 **[More Info](https://artiss.blog/2019/03/the-automattic-hiring-process/)** |
+
 <br /><br />
 
 ## | Interview 💼
