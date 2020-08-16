@@ -14,7 +14,8 @@ Some companies open a position as a remote job, but they indicate laterhand it i
 
 ### 📍 General Checkpoints
 
-* How to Find a Remote Job That's Right for You  - 🔗 **[Check this out](https://weworkremotely.com/how-to-find-a-remote-job-that-is-right-for-you)**
+* Must Read 
+  * How to Find a Remote Job That's Right for You  - 🔗 **[Check this out](https://weworkremotely.com/how-to-find-a-remote-job-that-is-right-for-you)**
 * Have your Resume or CV templates ready
 * Check if a position is only open for a specific region citizens
   i.e. US citizens only
@@ -29,8 +30,8 @@ Some companies open a position as a remote job, but they indicate laterhand it i
 | ------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **[AngelList](https://angel.co/jobs)**            | - Mostly about **startup Jobs**                              | - Check if 'Hires remotely' section is **Everywhere**        |
 | **[Indeed](https://www.indeed.com/)**             | - Can set the **salary expectations**                        | - Search **'Remote'** either on What or Where section        |
-| **[LinkedIn](https://www.linkedin.com/jobs/)**    | - Can **find the most results** about remote jobs, but need to see carefully if it's from anywhere or not |                                                              |
-| **[Glassdoor](https://www.glassdoor.com/)**       | - Can set the **salary expectations**<br />- Can look up to the employees' **reviews, salaries, and interview process** |                                                              |
+| **[LinkedIn](https://www.linkedin.com/jobs/)**    | - Can **find the most results** about remote jobs, but need to see carefully if it's from anywhere or not | - **LinkedIn Premiere** Free for 1 Month<br />- Offers **Easy to Apply** feature |
+| **[Glassdoor](https://www.glassdoor.com/)**       | - Can set the **salary expectations**                        | - Can look up to the employees' **reviews, salaries, and interview process** |
 | **[reed.co.uk](https://www.reed.co.uk/)**         | - Can search remote jobs for **UK based companies**          | - Mostly does **not require cover letter** and is **easy to apply** |
 | **[Remotive](https://remotive.io/)**              | - Can search by **typing keywords**                          | - Look for **'Global'** label under remote jobs              |
 | **[WeWorkRemotely](https://weworkremotely.com/)** | - Mostly about **startup Jobs**                              | - **Can't search** by seniority levels and languages <br />- Can search '**remtoe from anywhere**' jobs when **clicking the label** inside the post<br />- Stores **outdated posts** |
